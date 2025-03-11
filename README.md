@@ -14,7 +14,7 @@ https://github.com/aaryen-dsouza/AaryenResumeLatex/raw/main/DE/main.pdf
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/daPSOO5HqGwAAAAC/anime-boy.gif"  />
+<img align="right" height="150" src="./anime-boy.gif"  />
 
 ###
 <div align="left">
