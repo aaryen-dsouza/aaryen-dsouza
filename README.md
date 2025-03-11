@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from India</h2>
+<h2 align="left">Hi there👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from India</h2>
 
 <!-- https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf
 https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf
@@ -17,7 +17,7 @@ https://github.com/aaryen-dsouza/AaryenResumeLatex/raw/main/DE/main.pdf
 <img align="right" height="150" src="./anime-boy.gif"  />
 
 ###
-<div align="left">
+<div align="left" style="margin-right: 25px;" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
