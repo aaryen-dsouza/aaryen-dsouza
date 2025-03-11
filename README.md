@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from Canada</h2>
-
+📄 **Resume**: [View My Resume](https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf)
+<!-- https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf
+https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf
+-->
 ###
 
 <div align="center">
@@ -12,7 +15,6 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/daPSOO5HqGwAAAAC/anime-boy.gif"  />
 
 ###
-📄 **Resume**: [View My Resume](https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf)
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
