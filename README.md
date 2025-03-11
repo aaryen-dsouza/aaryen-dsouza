@@ -1,11 +1,12 @@
 <h2 align="left">Hi 👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from India</h2>
-📄 **Resume**: [View My Resume](https://github.com/aaryen-dsouza/AaryenResumeLatex/raw/main/DE/main.pdf)
+
 <!-- https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf
 https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf
 https://github.com/aaryen-dsouza/AaryenResumeLatex/raw/main/DE/main.pdf
 -->
 
 ###
+📄 **Resume**: [View My Resume](https://github.com/aaryen-dsouza/AaryenResumeLatex/raw/main/DE/main.pdf)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aaryen-dsouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryen-dsouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
