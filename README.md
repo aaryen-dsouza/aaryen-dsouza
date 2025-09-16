@@ -1,4 +1,4 @@
-<h2 align="left">Hi there👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from India</h2>
+<h2 align="left">Hi there👋! My name is Aaryen DSouza and I'm a passionate Data Engineer, from Canada</h2>
 
 <!-- https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf
 https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf
