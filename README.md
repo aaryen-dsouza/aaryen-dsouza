@@ -1,4 +1,4 @@
-<h2 align="left">Hey! My name is Aaryen Dsouza and I am a Data Engineer, from Canada</h2>
+<h2 align="left">Hey! My name is Aaryen Dsouza and I am a Data Engineer, from Canada.</h2>
 
 <!-- https://raw.githubusercontent.com//aaryen-dsouza/AaryenResumeLatex/main/DE/main.pdf
 https://github.com/aaryen-dsouza/AaryenResumeLatex/blob/main/DE/main.pdf
